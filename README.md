@@ -2,6 +2,7 @@
 This Random Code Generator Is Made By Python3.
 
 Workable For  Linux And Windows
+
  In Linux To Run This Script
  Type "python3 rand.py" (Type This Few Times To Get More Random Codes)
  
