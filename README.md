@@ -10,6 +10,4 @@ Workable For  Linux And Windows
  
  If you need to get more long code go to the source codes of the python file and make change as your favour according to the instructions
  
- ==============================================
- = CREATED THE MOP ( MOTHER OF PROGRAMMERS) ===
- ==============================================
+ THANK YOU!
